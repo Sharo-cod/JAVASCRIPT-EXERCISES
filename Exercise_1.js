@@ -40,3 +40,12 @@ const formatDate = (date = new Date() ) =>{
     return `${day}/${months}/${years}`
 } 
 console.log(formatDate());
+
+// ===================================
+
+// # 5
+
+// const addNew = (str) => `New! ${str}`
+// console.log(addNew('offer'));
+
+// ====================END OF FIRST EXERCISE ============================
