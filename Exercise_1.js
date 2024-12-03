@@ -48,4 +48,4 @@ console.log(formatDate());
 // const addNew = (str) => `New! ${str}`
 // console.log(addNew('offer'));
 
-// ====================END OF FIRST EXERCISE ============================
+// ====================END OF FIRST EXERCISE ===============================
